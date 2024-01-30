@@ -65,5 +65,4 @@
 <ol>
 <li>Once the installation is finished, Ubuntu will prompt you to remove the installation medium (the ISO file). Follow the instructions to eject the virtual disk and press Enter…</li>
 </ol>
-<p><img src="images/10.png" alt="Complete the Installation"></p>
 
