@@ -11,7 +11,7 @@
 <li>Look for the VMware Workstation product and navigate to the download section.</li>
 <li>Click on the option that says  <strong>“Try Workstation 17 Player for Windows”</strong>  to download the installer.</li>
 </ol>
-<p><img src="images/1.jpg" alt="Download VMware Workstation"></p>
+<p><img src="images/1.png" alt="Download VMware Workstation"></p>
 <h2 id="step-2-create-a-new-virtual-machine">Step 2: Create a new Virtual Machine</h2>
 <ol>
 <li>Once the VMware Workstation is installed, open the application.</li>
